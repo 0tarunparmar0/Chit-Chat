@@ -51,6 +51,7 @@ const Login = () => {
     };
 
     try {
+      console.log("checker -  ",server,"/api/v1/user/login" )
       const { data } = await axios.post(
         `${server}/api/v1/user/login`,
         {
