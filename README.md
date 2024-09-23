@@ -6,7 +6,8 @@ Chit Chat is a real-time chat application built using the MERN stack (MongoDB, E
 
 ## Deployed At
 
-https://66ef0f13c6af49ad3dfd998a--soft-puppy-3235d5.netlify.app/
+https://soft-puppy-3235d5.netlify.app/
+
 ## Key Features
 
 Real-time messaging with Socket.IO
